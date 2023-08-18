@@ -1,0 +1,7 @@
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\bin\Debug\GarageLogic.dll.config
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\bin\Debug\GarageLogic.dll
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\bin\Debug\GarageLogic.pdb
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\obj\Debug\GarageLogic.csproj.AssemblyReference.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\obj\Debug\GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\obj\Debug\GarageLogic.dll
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\B22 Ex03 TomPolak 208388892 AmitMenashe 208576173\GarageLogic\obj\Debug\GarageLogic.pdb

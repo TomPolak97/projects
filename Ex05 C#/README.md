@@ -1,0 +1,1 @@
+This exercise is the advanced project of hw2. In this exercise, we have attached the logic from hw2 as a DLL to the current project and made the checkers game as a windows desktop application using Windows Forms.

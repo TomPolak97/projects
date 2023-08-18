@@ -1,0 +1,8 @@
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\bin\Debug\Back.exe.config
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\bin\Debug\Back.exe
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\bin\Debug\Back.pdb
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.csproj.AssemblyReference.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.csproj.CoreCompileInputs.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.exe
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\B22 Ex02 TomPolak 208388892 AmitMenashe 208576173\Back\obj\Debug\Back.pdb

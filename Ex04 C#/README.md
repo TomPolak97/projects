@@ -1,0 +1,1 @@
+The hierarchical Console Menu Class is designed to simplify the process of creating and managing hierarchical menus for console-based applications. In this exercise we have created this kind of menus, using delegates and interfaces.

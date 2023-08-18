@@ -1,0 +1,14 @@
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Tompo\OneDrive\שולחן העבודה\תם\לימודים\שנה ב סמסטר ב\סי שארפ\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\B22 Ex04 TomPolak 208388892 AmitMenashe 208576173\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Dev\TomPolakProjects\OOP C#\Ex04 C#\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

@@ -1,0 +1,419 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+/*Start -navigation bar styling:*/
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #495d5b;
+    font-family: 'Poppins', sans-serif;
+}
+.logo {
+    color: rgb(226, 226, 226);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.nav-links li {
+    list-style: none;
+}
+.nav-links a {
+    color: rgb(226, 226, 226);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.burger {
+    display: none;
+}
+.burger div{
+    width: 25px;
+    height: 2px;
+    background-color: rgb(226, 226, 226);
+    margin: 5px;
+}
+@media screen and (max-width: 1024px)
+{
+    .nav-links{
+        display: flex;
+        justify-content: space-around;
+        width: 60%;
+    }
+}
+@media screen and (max-width: 768px)
+{
+    body {
+        overflow-x: hidden;
+    }
+    .nav-links{
+        position: absolute;
+        right: 0px;
+        height: 92vh;
+        top: 8vh;
+        background-color: #495d5b;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 50%;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+    }
+    .nav-links li {
+        opacity: 1;
+    }
+    .burger {
+        display: block;
+    }
+}
+.nav-active{
+    transform: translateX(0%);
+}
+@keyframes  navLinksFade {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+/*End -navigation bar styling:*/
+
+/*Start - "about me" section styling:*/
+.wrapper {
+    color: #fff;
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url('images/SoccerField.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.testimonial {
+    padding: 30px 100px;
+}
+article h1 {
+    font-size: 50px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+article img{
+    height: 300px;
+    width: 300px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    margin-top: 60px;
+}
+#first p in about me{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+}
+article h5 {
+    text-transform: uppercase;
+    font-size: 27px;
+    margin-top: 30px;
+    letter-spacing: 1.5px;
+}
+#second p in about me{
+    font-size: 17px;
+}
+/*End - "about me" section styling:*/
+
+/*Start - education section styling:*/
+.time-line {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.block {
+    color: #fff;
+    width: calc(50% - 20px);
+    background-color: black;
+    border : 1px solid #ddd;
+    margin : 10px 0;
+    padding: 30px;
+    position: relative;
+
+}
+.block h3 {
+    font-size: 16px;
+    margin: 10px 0;
+}
+.block p {
+    font-size: 15px;
+}
+#educationH1 {
+    color: black;
+    margin-top: 30px;
+}
+/*End - education section styling:*/
+
+/* Start - hobbies styling section*/
+#hobbiesTitle{
+    color: white;
+    font-size: 24px;
+}
+#HobbiesSection {
+    background-color: #2F3238;
+    margin: 30px;
+}
+.row {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.image {
+   background: #151d26;
+    position: relative;
+    flex: 1;
+    max-width: 460px;
+    height: 300px;
+    margin: 20px;
+    overflow: hidden;
+}
+
+.image img {
+    width: 170px;
+    height: 170px;
+    opacity: 0.6;
+    position: relative;
+    vertical-align: top;
+    transition: 0.6s;
+    transition-property: opacity;
+}
+image:hover img{
+    opacity: 1;
+}
+.image .details {
+    z-index: 1;
+    position: absolute;
+    top : 0;
+    right: 0;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+}
+.image .details h2{
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-top: 70px;
+    transition: 0.4s;
+    transition-property: transform;
+
+}
+.image .details h2 span {
+    font-weight: 900;
+}
+.image:hover .details h2{
+    transform: translateY(-30px);
+}
+.image .details p{
+    margain: 30px 30px 0 30px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    opacity: 0;
+    transition: 0.6s;
+    transition-property: opacity, transform;
+}
+.image:hover .details p{
+    opacity: 1;
+    transform: translateY(-40px);
+}
+.more{
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    bottom: -15px;
+    transition: 0.6s;
+    transition-property: bottom;
+}
+.imgae:hover .more{
+    bottom: 0;
+}
+.more .read-more{
+    color: #000;
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.more .read-more span{
+    font-weight: 900;
+}
+.more .icon-links i{
+    color: #000;
+    font-size: 20px;
+}
+.more.icon-links a:not(:last-child) i{
+    margin-right: 20px;
+}
+@media(max-width: 1080px){
+    .image{
+        flex: 100%;
+        max-width: 480px;
+    }
+}
+@media(max-width: 400px){
+    .image .details p{
+       font-size: 16px;
+    }
+    .more .read-more, .more .icon-links a i{
+        font-size: 18px;
+    }
+}
+/* End - hobbies styling section*/
+
+/* Start - Employment styling section*/
+#EmploymentSection{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 10%;
+}
+header.title{
+    font-family: Poppins;
+    color: #11a372;
+    padding: 0px 0px 20px 30px;
+}
+.contents{
+    padding: 0px 30px;
+    border-left: 2px solid #bababa;
+}
+.box{
+    position: relative;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    background-color: #ffff;
+    cursor: pointer;
+    transition: all 0.4s;
+    margin-bottom: 20px;
+}
+.box:hover{
+    box-shadow: 0px 3px 12px 0px #ccc;
+    border: 1px solid transparent;
+}
+.box:before{
+    content: '';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    right: calc(100% + 22px);
+    top: 0;
+    background-color: #11a372;
+    border: 2px solid white;
+}
+.box h4 {
+position: relative;
+    color: #11a372;
+}
+.box h3{
+    font-size: 19px;
+    padding: 10px 0px 6px;
+    color: #444;
+}
+.box p{
+    line-height: 1.2;
+    color: #666;
+    font-size: 17px;
+}
+/* End - Employment styling section*/
+
+/* Start - Contact me styling form*/
+#contactMeSection {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #495d5b;
+}
+ContactMeForm{
+    max-width: 550px;
+    width: 90%;
+    margin: 17vh auto 0 auto;
+    padding: 40px;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+#contactMeH1 {
+    margin: 0;
+    text-align: center;
+}
+.ContactMeClass label {
+    display: block;
+    margin: 20px 0;
+}
+
+.ContactMeClass input, textarea {
+   width: 45%;
+    padding: 10px;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    border: none;
+    border-bottom: 1px solid #D3D3D3;
+}
+.ContactMeClass input[type="text"]:focus, .ContactMeClass textarea:focus{
+    border-bottom: 3px solid #090815;
+}
+.ContactMeClass textarea::-webkit-scrollbar{
+    width: 4px;
+}
+.center input {
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 30px;
+    width: 90%;
+    max-width: 200px;
+    background: linear-gradient(to right, #3b4631, #2bb789);
+}
+.error {
+    color: white;
+}
+.error-border {
+border-bottom: 1px solid #2bb789;
+}
+/* End - Contact me styling form*/
+
+/* Start - photos collection slider styling*/
+.photos{
+    background-color: rgba(19, 105, 77, 0.15);
+}
+.photos img{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+/* End - photos collection slider styling*/
